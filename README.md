@@ -9,4 +9,4 @@
 * Uso do comando git push
 * Comando git pull
 * Comando git fetch
-* Novo teste de git pull
+* Unindo Branch's 
