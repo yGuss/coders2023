@@ -2,4 +2,5 @@
 
 Este é apenas um teste!
 
-*  uso do comando git restore
+* Uso do comando git restore
+* Apenas mais um teste de commit!
