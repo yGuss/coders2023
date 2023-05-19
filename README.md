@@ -6,3 +6,4 @@
 
 * Uso do comando git restore
 * Apenas mais um teste de commit!
+* Uso do comando git push
